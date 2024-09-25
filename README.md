@@ -1,4 +1,3 @@
-# satisfatory-maps
 # Automating Satisfactory Save Backup to GitHub
 
 If anyone else wants to automate their Satisfactory save backups to GitHub, it's quite easy, and you can use my script and public GitHub repo.
