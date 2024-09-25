@@ -17,7 +17,7 @@ If anyone else wants to automate their Satisfactory save backups to GitHub, it's
 1. **Set Up Windows Task Scheduler**:
    - Open **Windows Task Scheduler** and create a basic task:
      - **Trigger**: Set it to **Daily**.
-     - **Action**: Browse to your script in `C:\scripts`.
+     - **Action**: Browse to your script in `C:\git`.
      - **Finish** the basic task setup.
    
 1. **Edit the Task in Task Scheduler**:
